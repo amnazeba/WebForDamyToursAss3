@@ -11,6 +11,13 @@ body {
   min-height: 100vh; /* Ensures footer stays at the bottom */
 }
 
+.naslov {
+margin-top: 5%;
+margin-left: 40%;
+color: white
+}
+
+
 .navdiv {
   position: fixed;
   top: 0;
